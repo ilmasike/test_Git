@@ -3,8 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
 ## GoGoCode 是什么？
-代代码转换，从未如此简单。秒懂百科，世界如此简单！！
-折戟沉沙铁未销。
+singking 就是你，别靠近我怀疑；
+别假装你不在意。你明明动了心。
+
 
 我的可能与aaaa分支冲突的部分代码，aaa这里写的是一望无际，两全其美，三顾茅庐，四面楚歌。
 
