@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
 ## GoGoCode 是什么？
+代代码转换，从未如此简单。
+我的可能与aaaa分支冲突的部分代码，aaa这里写的是一望无际，两全其美，三顾茅庐，四面楚歌。
+
 
 [English version of README](README.md)
 
@@ -13,7 +16,13 @@ GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具�
 
 来 [GoGoCode.io](https://gogocode.io) 了解更多
 
-## 简介
+## 简介  
+一年三百六十日，风刀霜剑严相逼。
+嫁与东风春不管，凭尔去，忍淹留。
+
+明妃曲：欧阳修
+耳目所及尚如此，万里安能制夷狄。
+，莫怨东风当自嗟。
 
 让我们通过一个简单的例子来看看上述查找和修改代码的 API 是如何使用的
 
